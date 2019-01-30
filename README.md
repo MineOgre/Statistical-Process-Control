@@ -17,9 +17,11 @@ License: MIT
 
 Edited by Mine Öğretir
 
-Added: Missing Rules
+Added: Missing Rules are Added
 
 Some changes
 
 Changepoint is added, when changepoints are set, the calculations are made in the intervals individually
+
+Changepoint is also applied to the graphs 
 
